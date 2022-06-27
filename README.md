@@ -1,5 +1,6 @@
 # XcodeのようなSegmented Controlが欲しい
-MacOSアプリを左側にNavigation Paneを用意したのですが、 Xcodeのナビゲーターの切り替えに相当するSegemented ControlをSwiftUIで作る方法が見つかりませんでした。
+MacOSアプリを作っていて左側にNavigation Paneを用意したのですが、、Xcodeのナビゲーターの切り替えのようなUI（Segemented Control）をSwiftUIで実装する方法が見つかりませんでした。
+
 
 ![](https://storage.googleapis.com/zenn-user-upload/909c23e70d30-20220626.png)
 *この中段にあるようなSegmeneted Controllerを作りたい*
